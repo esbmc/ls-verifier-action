@@ -1,5 +1,5 @@
 # LSVerifier-Action
-This action uses [LSVerifier](https://pypi.org/project/LSVerifier/) to formally verify ANSI-C projects.
+This action uses [LSVerifier](https://pypi.org/project/LSVerifier/) to formally verify ANSI-C projects. This action will run LSVerifier in all available repositories on the runner.
 
 ## Inputs
 

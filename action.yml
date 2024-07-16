@@ -1,5 +1,10 @@
 name: "LSVerifier Action"
 author: "Goblin57"
+
+branding:
+    icon: "check-circle"
+    color: "blue"
+
 description: "Uses LSVerifier to verify ANSI-C projects"
 runs:
     using: "docker"
